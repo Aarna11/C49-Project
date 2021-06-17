@@ -1,0 +1,26 @@
+.information{
+    font-size: large;
+    display: flex;
+    flex-flow: column;
+    background-color:#4567d6;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.object{
+    margin: 2mm;
+    border:2mm;
+    justify-content:center;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 60px;
+    flex-direction: column-reverse;
+    background-color: #006464;
+    block-size: 200px;
+    justify-self: center;
+    flex-grow: initial;
+}
+.process{
+    display:flex;
+    justify-self: left;
+    font-size: 10mm;
+}
